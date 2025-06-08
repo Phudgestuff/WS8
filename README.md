@@ -1,2 +1,2 @@
 # World Server 8
-This is where you can find the rules for the 8th iteration of the World Server/Nations Server.
+This is the wiki/ruleset for the 8th World Server (referred to as WS8 in this wiki).
